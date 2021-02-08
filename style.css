@@ -1,0 +1,38 @@
+.primary-btn{
+  width:20%;
+  height:150px;
+  background-color:#444444;
+  color:white;
+  font-size:30px;
+  font-family:Arial, Helvetica, sans-serif;
+
+
+}
+.secondary-btn{
+  width:20%;
+  height:150px;
+  background-color:#166df0;
+  color:white;
+  font-size:30px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.third-btn{
+  width:20%;
+  height:150px;
+  background-color:#08935a;
+  color:white;
+  font-size:30px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+body{
+  background-color:black;
+}
+#output{
+  width:80%;
+  height:125px;
+  color:white;
+  font-size:60px;
+  border-color:white;
+  border: 5px outset gray;
+
+}
